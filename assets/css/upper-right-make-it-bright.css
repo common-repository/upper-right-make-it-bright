@@ -1,0 +1,335 @@
+.brightness-over-9000 {
+	padding: 4px 16px;
+	box-shadow: 0 1px rgba(0,0,0,.2);
+	background: #eee;
+}
+
+.brightness-over-9000 .widget {
+	margin-bottom: 0;
+}
+
+.brightness-over-9000 .dib {
+	display: inline-block;
+}
+
+.brightness-over-9000 .clear-both {
+	clear: both;
+}
+
+.brightness-over-9000 .large {
+	font-size: 133%;
+}
+
+.brightness-over-9000 .upper-right-widget .call-to-action {
+	margin-right: 10px;
+	position: relative;
+}
+
+.brightness-over-9000 .upper-right-widget .call-to-action + .call-to-action {
+	margin-left: 10px;
+	margin-right: 0;
+}
+
+#brightness-over-9000 .grid {
+	display: flex !important;
+	flex-direction: row !important;
+	align-items: center !important;
+	justify-content: space-between !important;
+}
+
+}
+#brightness-over-9000 > .grid > * {
+	width: 50% !important;
+	display: inline !important;
+	flex: 1 !important;
+}
+
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#bbb+0,999+100 */
+/*
+	.brightness-over-9000 .upper-right-widget .call-to-action {
+		padding: 4px 18px;
+
+		background: #bbb;
+		background: -moz-linear-gradient(top, #bbb 0%, #999 100%);
+		background: -webkit-linear-gradient(top, #bbb 0%,#999 100%);
+		background: linear-gradient(to bottom, #bbb 0%,#999 100%);
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bbb', endColorstr='#999',GradientType=0 );
+
+		color: #fff;
+		text-decoration: none;
+
+		border: 1px solid #777;
+
+		-webkit-transition: 0s all;
+		-moz-transition: 0s all;
+		-ms-transition: 0s all;
+		-o-transition: 0s all;
+		transition: 0s all;
+	}
+*/
+
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#999+0,bbb+100 */
+/*
+	.brightness-over-9000 .upper-right-widget .call-to-action:hover {
+		background: #999;
+		background: -moz-linear-gradient(top, #999 0%, #bbb 100%);
+		background: -webkit-linear-gradient(top, #999 0%,#bbb 100%);
+		background: linear-gradient(to bottom, #999 0%,#bbb 100%);
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#999', endColorstr='#bbb',GradientType=0 );
+
+		color: #fff;
+	}
+*/
+
+.simple-social-icons ul .social-rss a { background-color: #FF6600 !important; }
+.simple-social-icons ul .social-gplus a { background-color: #dc4e41 !important; }
+.simple-social-icons ul .social-vimeo a { background-color: #1ab7ea !important; }
+.simple-social-icons ul .social-flickr a { background-color: #128fdc !important; }
+.simple-social-icons ul .social-tumblr a { background-color: #36465d !important; }
+.simple-social-icons ul .social-github a { background-color: #000000 !important; }
+.simple-social-icons ul .social-twitter a { background-color: #55acee !important; }
+.simple-social-icons ul .social-youtube a { background-color: #e62d28 !important; }
+.simple-social-icons ul .social-facebook a { background-color: #3b5998 !important; }
+.simple-social-icons ul .social-dribbble a { background-color: #ea4c89 !important; }
+.simple-social-icons ul .social-linkedin a { background-color: #0077B5 !important; }
+.simple-social-icons ul .social-bloglovin a { background-color: #00bdf4 !important; }
+.simple-social-icons ul .social-pinterest a { background-color: #bd081c !important; }
+.simple-social-icons ul .social-stumbleupon a { background-color: #eb4924 !important; }
+.simple-social-icons ul .social-instagram a {
+	color: #fff;
+	background:
+		radial-gradient(circle farthest-corner at 35% 90%, #fec564, transparent 50%),
+		radial-gradient(circle farthest-corner at 0 140%, #fec564, transparent 50%),
+		radial-gradient(ellipse farthest-corner at 0 -25%, #5258cf, transparent 50%),
+		radial-gradient(ellipse farthest-corner at 20% -50%, #5258cf, transparent 50%),
+		radial-gradient(ellipse farthest-corner at 100% 0, #893dc2, transparent 50%),
+		radial-gradient(ellipse farthest-corner at 60% -20%, #893dc2, transparent 50%),
+		radial-gradient(ellipse farthest-corner at 100% 100%, #d9317a, transparent),
+		linear-gradient(#6559ca, #bc318f 30%, #e33f5f 50%, #f77638 70%, #fec66d 100%) !important;
+}
+
+/* Fixes for Digital Pro theme */
+.digital-pro .site-header {
+	padding: 0;
+}
+
+/* Other Fixes */
+.brightness-over-9000 .rbd-reviews-social-proof {
+	text-align: inherit !important;
+}
+
+.brightness-over-9000 .rbd-reviews-social-proof a {
+	text-decoration: none !important;
+	border: 0 !important;
+}
+
+.upper-right-make-it-bright .site-header,
+.upper-right-make-it-bright .site-header.shrink,
+.admin-bar.upper-right-make-it-bright .site-header,
+.upper-right-make-it-bright .header-image .site-header,
+.admin-bar.upper-right-make-it-bright .site-header.shrink,
+.upper-right-make-it-bright .header-image .site-header.shrink,
+.admin-bar.upper-right-make-it-bright .header-image .site-header,
+.admin-bar.upper-right-make-it-bright .header-image .site-header.shrink {
+	padding: 0;
+}
+
+.brightness-over-9000 .simple-social-icons ul,
+.brightness-over-9000 .simple-social-icons ul.alignleft,
+.brightness-over-9000 .simple-social-icons ul.alignright,
+.brightness-over-9000 .simple-social-icons ul.aligncenter {
+	text-align: inherit !important;
+}
+
+/* Cutestrap Text Alignment */
+@media (max-width:768px) {
+	.brightness-over-9000 .upper-right-widget {
+		transform: scale(.9);
+		text-align: center;
+	}
+	/*.brightness-over-9000 .upper-right-widget + .upper-right-widget { margin-top: 10px; }*/
+}
+
+@media (min-width:768px) {
+    .text-sm-left { text-align: left !important; }
+	.text-sm-right { text-align: right !important; }
+	.text-sm-center { text-align: center !important; }
+}
+
+@media (max-width:992px) {
+	.brightness-over-9000 .upper-right-widget-3,
+	/*.brightness-over-9000 .upper-right-widget-4 { margin-top: 10px; }*/
+
+	/*.brightness-over-9000 .row .upper-right-widget:last-child {
+		margin-bottom: 10px;
+	}*/
+}
+
+@media (min-width:992px) {
+	.text-md-left { text-align: left !important; }
+	.text-md-right { text-align: right !important; }
+	.text-md-center { text-align: center !important; }
+}
+
+@media (min-width:1200px) {
+	.text-lg-left { text-align: left !important; }
+	.text-lg-right { text-align: right !important; }
+	.text-lg-center { text-align: center !important; }
+}
+
+.brightness-over-9000 .upper-right-widget { margin-top: 0; }
+
+@media (min-width:768px) {
+	.upper-right-core-ui .show-lg.block {
+		display: block;
+	}
+
+	.upper-right-core-ui .hide-lg.block {
+		display: none;
+	}
+}
+
+@media (max-width:767px) {
+	.upper-right-core-ui .show-lg {
+		display: none;
+	}
+
+	.upper-right-core-ui .hide-lg.block {
+		display: block;
+	}
+}
+
+@media (min-width: 441px){
+	.brightness-over-9000 .upper-right-widget .call-to-action span {
+		padding-left: 20px;
+	}
+
+	.brightness-over-9000 .upper-right-widget .call-to-action i {
+		position: absolute;
+		margin-left: -22px;
+		margin-top: -4px;
+	}
+}
+
+@media (max-width:440px) {
+	.upper-right-core-ui .call-to-action {
+		width: 100%;
+		margin: 0 0 10px !important;
+		text-align: center;
+	}
+
+	.upper-right-core-ui .call-to-action i {
+		position: absolute;
+		left: 25px;
+		top: 25%;
+	}
+}
+
+/**
+ * Grid Layout
+ *
+ * I personally prefer CSS Grid, but I need to provide fallbacks because clients
+ * or client's clients have weird browser reqs. This grid I designed falls back
+ * to Flexbox, or falls way back to inline-block with 0 whitespace if flex fails.
+ *
+ * Grid types gracefully degrade; CSS Grid > Flexbox > Inline-Block > Ungrid
+ * 
+ * Grid types can be overwritten with the `grid="GRID-TYPE"` attribute.
+ */
+
+
+@supports (not (display: grid) ) and (not (display: flex) ){
+	.grid,
+	.grid[grid="inline-block"] {
+		font-size: 0;
+		vertical-align: top;
+	}
+
+	.grid > *, .grid[grid="inline-block"] > *,
+	.grid[columns="1"] > *, .grid[grid="inline-block"] > *  { width: 100%; margin: 0; display: inline-block; font-size: initial; }
+	.grid[columns="2"] > *, .grid[grid="inline-block"] > *  { width: 50%; }
+	.grid[columns="3"] > *, .grid[grid="inline-block"] > *  { width: 33.3333%; }
+	.grid[columns="4"] > *, .grid[grid="inline-block"] > *  { width: 25%; }
+	.grid[columns="6"] > *, .grid[grid="inline-block"] > *  { width: 16.6666%; }
+	.grid[columns="12"] > *, .grid[grid="inline-block"] > * { width: 8.3333%; }
+
+	.grid [col-span="1"], .grid[grid="inline-block"] [col-span="1"]  { width: 8.3333%; }
+	.grid [col-span="2"], .grid[grid="inline-block"] [col-span="2"]  { width: 16.6666%; }
+	.grid [col-span="3"], .grid[grid="inline-block"] [col-span="3"]  { width: 25%; }
+	.grid [col-span="4"], .grid[grid="inline-block"] [col-span="4"]  { width: 33.3333%; }
+	.grid [col-span="5"], .grid[grid="inline-block"] [col-span="5"]  { width: 41.6666%; }
+	.grid [col-span="6"], .grid[grid="inline-block"] [col-span="6"]  { width: 50%; }
+	.grid [col-span="7"], .grid[grid="inline-block"] [col-span="7"]  { width: 58.3333%; }
+	.grid [col-span="8"], .grid[grid="inline-block"] [col-span="8"]  { width: 66.6666%; }
+	.grid [col-span="9"], .grid[grid="inline-block"] [col-span="9"]  { width: 75%; }
+	.grid [col-span="10"], .grid[grid="inline-block"] [col-span="10"] { width: 83.3333%; }
+	.grid [col-span="11"], .grid[grid="inline-block"] [col-span="11"] { width: 91.6666%; }
+	.grid [col-span="12"], .grid[grid="inline-block"] [col-span="12"] { width: 100%; }
+}
+
+@supports (display: flex) {
+	.grid,
+	.grid[grid="flexbox"] {
+		display: flex;
+		flex-wrap: wrap;
+	}
+
+	.grid > *, .grid[grid="flexbox"] > *,
+	.grid[columns="1"] > *, .grid[grid="flexbox"][columns="1"] > *  { flex: calc( 100% / 1); }
+	.grid[columns="2"] > *, .grid[grid="flexbox"][columns="2"] > *  { flex: calc( 100% / 2 ); }
+	.grid[columns="3"] > *, .grid[grid="flexbox"][columns="3"] > *  { flex: calc( 100% / 3 ); }
+	.grid[columns="4"] > *, .grid[grid="flexbox"][columns="4"] > *  { flex: calc( 100% / 4 ); }
+	.grid[columns="6"] > *, .grid[grid="flexbox"][columns="6"] > *  { flex: calc( 100% / 6 ); }
+	.grid[columns="12"] > *, .grid[grid="flexbox"][columns="12"] > * { flex: calc( 100% / 12 ); }
+
+	.grid [col-span="1"], .grid[grid="flexbox"] [col-span="1"]  { flex: calc( ( 100% / 12 ) * 1 ); }
+	.grid [col-span="2"], .grid[grid="flexbox"] [col-span="2"]  { flex: calc( ( 100% / 12 ) * 2 ); }
+	.grid [col-span="3"], .grid[grid="flexbox"] [col-span="3"]  { flex: calc( ( 100% / 12 ) * 3 ); }
+	.grid [col-span="4"], .grid[grid="flexbox"] [col-span="4"]  { flex: calc( ( 100% / 12 ) * 4 ); }
+	.grid [col-span="5"], .grid[grid="flexbox"] [col-span="5"]  { flex: calc( ( 100% / 12 ) * 5 ); }
+	.grid [col-span="6"], .grid[grid="flexbox"] [col-span="6"]  { flex: calc( ( 100% / 12 ) * 6 ); }
+	.grid [col-span="7"], .grid[grid="flexbox"] [col-span="7"]  { flex: calc( ( 100% / 12 ) * 7 ); }
+	.grid [col-span="8"], .grid[grid="flexbox"] [col-span="8"]  { flex: calc( ( 100% / 12 ) * 8 ); }
+	.grid [col-span="9"], .grid[grid="flexbox"] [col-span="9"]  { flex: calc( ( 100% / 12 ) * 9 ); }
+	.grid [col-span="10"], .grid[grid="flexbox"] [col-span="10"] { flex: calc( ( 100% / 12 ) * 10 ); }
+	.grid [col-span="11"], .grid[grid="flexbox"] [col-span="11"] { flex: calc( ( 100% / 12 ) * 11 ); }
+	.grid [col-span="12"], .grid[grid="flexbox"] [col-span="12"] { flex: calc( ( 100% / 12 ) * 12 ); }
+}
+
+@supports (display: grid) {
+	.grid,
+	.grid[grid="css-grid"] {
+		display: grid;
+		grid-gap: 0;
+		grid-template-columns: repeat(12, 1fr);
+	}
+
+	.grid[gap] { grid-gap: 20px; }
+
+	.grid > *, .grid[grid="css-grid"] > *,
+	.grid[columns="1"] > *, .grid[grid="css-grid"][columns="1"] > *  { grid-column: auto / span 12 }
+	.grid[columns="2"] > *, .grid[grid="css-grid"][columns="2"] > *  { grid-column: auto / span 6 }
+	.grid[columns="3"] > *, .grid[grid="css-grid"][columns="3"] > *  { grid-column: auto / span 4 }
+	.grid[columns="4"] > *, .grid[grid="css-grid"][columns="4"] > *  { grid-column: auto / span 3 }
+	.grid[columns="6"] > *, .grid[grid="css-grid"][columns="6"] > *  { grid-column: auto / span 2 }
+	.grid[columns="12"] > *, .grid[grid="css-grid"][columns="12"] > * { grid-column: auto / span 1 }
+
+	.grid [col-span="1"], .grid[grid="css-grid"] [col-span="1"]  { grid-column: auto / span 1 }
+	.grid [col-span="2"], .grid[grid="css-grid"] [col-span="2"]  { grid-column: auto / span 2 }
+	.grid [col-span="3"], .grid[grid="css-grid"] [col-span="3"]  { grid-column: auto / span 3 }
+	.grid [col-span="4"], .grid[grid="css-grid"] [col-span="4"]  { grid-column: auto / span 4 }
+	.grid [col-span="5"], .grid[grid="css-grid"] [col-span="5"]  { grid-column: auto / span 5 }
+	.grid [col-span="6"], .grid[grid="css-grid"] [col-span="6"]  { grid-column: auto / span 6 }
+	.grid [col-span="7"], .grid[grid="css-grid"] [col-span="7"]  { grid-column: auto / span 7 }
+	.grid [col-span="8"], .grid[grid="css-grid"] [col-span="8"]  { grid-column: auto / span 8 }
+	.grid [col-span="9"], .grid[grid="css-grid"] [col-span="9"]  { grid-column: auto / span 9 }
+	.grid [col-span="10"], .grid[grid="css-grid"] [col-span="10"] { grid-column: auto / span 10 }
+	.grid [col-span="11"], .grid[grid="css-grid"] [col-span="11"] { grid-column: auto / span 11 }
+	.grid [col-span="12"], .grid[grid="css-grid"] [col-span="12"] { grid-column: auto / span 12 }
+
+	.grid [row-span="2"], .grid[grid="css-grid"] [row-span="2"] { grid-row: auto / span 2 }
+	.grid [row-span="3"], .grid[grid="css-grid"] [row-span="3"] { grid-row: auto / span 3 }
+	.grid [row-span="4"], .grid[grid="css-grid"] [row-span="4"] { grid-row: auto / span 4 }
+	.grid [row-span="5"], .grid[grid="css-grid"] [row-span="5"] { grid-row: auto / span 5 }
+	.grid [row-span="6"], .grid[grid="css-grid"] [row-span="6"] { grid-row: auto / span 6 }
+}

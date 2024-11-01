@@ -1,0 +1,158 @@
+.brightness-over-9000 {
+	padding: 4px 16px;
+	box-shadow: 0 1px rgba(0,0,0,.2);
+	background: #eee;
+}
+
+.brightness-over-9000 .widget {
+	margin-bottom: 0;
+}
+
+.brightness-over-9000 .dib {
+	display: inline-block;
+}
+
+.brightness-over-9000 .clear-both {
+	clear: both;
+}
+
+.brightness-over-9000 .large {
+	font-size: 133%;
+}
+
+.brightness-over-9000 .upper-right-widget .call-to-action {
+	margin-right: 10px;
+}
+
+.brightness-over-9000 .upper-right-widget .call-to-action + .call-to-action {
+	margin-left: 10px;
+}
+
+.brightness-over-9000 .upper-right-widget .call-to-action {
+	padding: 4px 18px;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#bbb+0,999+100 */
+	background: #bbb; /* Old browsers */
+	background: -moz-linear-gradient(top, #bbb 0%, #999 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, #bbb 0%,#999 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, #bbb 0%,#999 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bbb', endColorstr='#999',GradientType=0 ); /* IE6-9 */
+
+	color: #fff;
+	text-decoration: none;
+
+	border: 1px solid #777;
+
+	-webkit-transition: 0s all;
+	-moz-transition: 0s all;
+	-ms-transition: 0s all;
+	-o-transition: 0s all;
+	transition: 0s all;
+}
+
+.brightness-over-9000 .upper-right-widget .call-to-action:hover {
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#999+0,bbb+100 */
+	background: #999; /* Old browsers */
+	background: -moz-linear-gradient(top, #999 0%, #bbb 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, #999 0%,#bbb 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, #999 0%,#bbb 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#999', endColorstr='#bbb',GradientType=0 ); /* IE6-9 */
+
+	color: #fff;
+}
+
+.simple-social-icons ul .social-rss a { background-color: #FF6600 !important; }
+.simple-social-icons ul .social-gplus a { background-color: #dc4e41 !important; }
+.simple-social-icons ul .social-vimeo a { background-color: #1ab7ea !important; }
+.simple-social-icons ul .social-flickr a { background-color: #128fdc !important; }
+.simple-social-icons ul .social-tumblr a { background-color: #36465d !important; }
+.simple-social-icons ul .social-github a { background-color: #000000 !important; }
+.simple-social-icons ul .social-twitter a { background-color: #55acee !important; }
+.simple-social-icons ul .social-youtube a { background-color: #e62d28 !important; }
+.simple-social-icons ul .social-facebook a { background-color: #3b5998 !important; }
+.simple-social-icons ul .social-dribbble a { background-color: #ea4c89 !important; }
+.simple-social-icons ul .social-linkedin a { background-color: #0077B5 !important; }
+.simple-social-icons ul .social-bloglovin a { background-color: #00bdf4 !important; }
+.simple-social-icons ul .social-pinterest a { background-color: #bd081c !important; }
+.simple-social-icons ul .social-stumbleupon a { background-color: #eb4924 !important; }
+.simple-social-icons ul .social-instagram a {
+	color: #fff;
+	background:
+		radial-gradient(circle farthest-corner at 35% 90%, #fec564, transparent 50%),
+		radial-gradient(circle farthest-corner at 0 140%, #fec564, transparent 50%),
+		radial-gradient(ellipse farthest-corner at 0 -25%, #5258cf, transparent 50%),
+		radial-gradient(ellipse farthest-corner at 20% -50%, #5258cf, transparent 50%),
+		radial-gradient(ellipse farthest-corner at 100% 0, #893dc2, transparent 50%),
+		radial-gradient(ellipse farthest-corner at 60% -20%, #893dc2, transparent 50%),
+		radial-gradient(ellipse farthest-corner at 100% 100%, #d9317a, transparent),
+		linear-gradient(#6559ca, #bc318f 30%, #e33f5f 50%, #f77638 70%, #fec66d 100%) !important;
+}
+
+/* Fixes for Digital Pro theme */
+.digital-pro .site-header {
+	padding: 0;
+}
+
+/* Other Fixes */
+.brightness-over-9000 .rbd-reviews-social-proof {
+	text-align: inherit !important;
+}
+
+.brightness-over-9000 .rbd-reviews-social-proof a {
+	text-decoration: none !important;
+	border: 0 !important;
+}
+
+.upper-right-make-it-bright .site-header,
+.upper-right-make-it-bright .site-header.shrink,
+.admin-bar.upper-right-make-it-bright .site-header,
+.upper-right-make-it-bright .header-image .site-header,
+.admin-bar.upper-right-make-it-bright .site-header.shrink,
+.upper-right-make-it-bright .header-image .site-header.shrink,
+.admin-bar.upper-right-make-it-bright .header-image .site-header,
+.admin-bar.upper-right-make-it-bright .header-image .site-header.shrink {
+	padding: 0;
+}
+
+.brightness-over-9000 .simple-social-icons ul,
+.brightness-over-9000 .simple-social-icons ul.alignleft,
+.brightness-over-9000 .simple-social-icons ul.alignright,
+.brightness-over-9000 .simple-social-icons ul.aligncenter {
+	text-align: inherit !important;
+}
+
+/* Cutestrap Text Alignment */
+@media (max-width:768px) {
+	.brightness-over-9000 .upper-right-widget {
+		transform: scale(.9);
+	}
+	/*.brightness-over-9000 .upper-right-widget + .upper-right-widget { margin-top: 10px; }*/
+}
+
+@media (min-width:768px) {
+    .text-sm-left { text-align: left !important; }
+	.text-sm-right { text-align: right !important; }
+	.text-sm-center { text-align: center !important; }
+}
+
+@media (max-width:992px) {
+	.brightness-over-9000 .upper-right-widget-3,
+	/*.brightness-over-9000 .upper-right-widget-4 { margin-top: 10px; }*/
+
+	/*.brightness-over-9000 .row .upper-right-widget:last-child {
+		margin-bottom: 10px;
+	}*/
+}
+
+@media (min-width:992px) {
+	.text-md-left { text-align: left !important; }
+	.text-md-right { text-align: right !important; }
+	.text-md-center { text-align: center !important; }
+}
+
+@media (min-width:1200px) {
+	.text-lg-left { text-align: left !important; }
+	.text-lg-right { text-align: right !important; }
+	.text-lg-center { text-align: center !important; }
+}
+
+.brightness-over-9000 .upper-right-widget { margin-top: 0; }
